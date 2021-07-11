@@ -7,5 +7,5 @@ I am steadily improving my React and Javascript skills right now.
 
 
 ### 📫 How to reach me:
-[Github](https://www.linkedin.com/in/riccardi-dalexis-255270186/)
+[LinkedIn](https://www.linkedin.com/in/riccardi-dalexis-255270186/)
 [Gmail](mailto:rod7760@rit.edu)
