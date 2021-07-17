@@ -3,7 +3,7 @@ I am currently a CS Student at Rochester Institute of Technology. I am an intell
 
 ### What I'm currently working on
 * I am steadily improving my React and Javascript skills right now.
-* Learning some Assembly to build a basic OS in C!
+* Learning some Assembly with the goal of building a basic OS in C!
 * Learning how to incorporate the [Janki](https://www.jackkinsella.ie/articles/janki-method-refined) method into my learning workflow.
 
 ### 📫 How to reach me:
