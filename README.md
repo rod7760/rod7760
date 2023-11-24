@@ -5,7 +5,7 @@ I also love meeting new developers, so feel free to reach out!
 
 ### What I'm currently working on
 * Finishing up my senior year!
-* Working a MSA Safety.
+* Working at MSA Safety.
 * Looking for open source projects to contribute to.  
 
 ### 📫 How to reach me:
