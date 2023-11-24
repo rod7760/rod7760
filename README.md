@@ -9,5 +9,5 @@ I am currently a CS Student at Rochester Institute of Technology. I am an intell
 [LinkedIn](https://www.linkedin.com/in/riccardi-dalexis-255270186/)
 [Gmail](mailto:rod7760@rit.edu)
 
-[![Top Langs](https://github-readme-stats-vercel-rod7760s-projects.vercel.app/api/top-langs/?username=rod7760)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats-vercel-rod7760s-projects.vercel.app/api?username=rod7760)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.com/rod7760s-projects/github-readme-stats-vercel/6oiEc4pPWYHcaFPH8idzQ7JYr92i/api/top-langs/?username=rod7760)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://vercel.com/rod7760s-projects/github-readme-stats-vercel/6oiEc4pPWYHcaFPH8idzQ7JYr92i/api?username=rod7760)](https://github.com/anuraghazra/github-readme-stats)
