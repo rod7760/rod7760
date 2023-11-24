@@ -4,6 +4,7 @@ I am currently a CS Student at Rochester Institute of Technology. I am an intell
 ### What I'm currently working on
 * Finishing up my senior year!
 * Working a MSA Safety.
+* Looking for open source projects to contribute to.  
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/riccardi-dalexis-255270186/)
