@@ -14,5 +14,5 @@ I also love meeting new developers, so feel free to reach out!
 
 ### Stats
 [![Ricky's GitHub stats](https://github-readme-stats-vercel-rod7760s-projects.vercel.app/api?username=rod7760&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rod7760&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rod7760&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
