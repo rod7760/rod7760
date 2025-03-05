@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Ricky
-I recently graduated from Rochester Institute of Technology!
-I am an intellectually curious individual who is excited about lifelong learning. 
+I'm an intellectually curious individual who is excited about lifelong learning. 
 I also love meeting new developers, so feel free to reach out!
 
 ### What I'm currently working on
