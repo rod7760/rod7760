@@ -11,7 +11,7 @@ I also love meeting new developers, so feel free to reach out!
 [Gmail](mailto:rod7760@rit.edu)
 
 ### My attempt at blogging:
-[Mental Changelog](https://rod7760.github.io/mental_changelog.github.io/)
+[rickydalexis.com](https://rickydalexis.com)
 
 ### Stats
 [![Ricky's GitHub stats](https://github-readme-stats-vercel-rod7760s-projects.vercel.app/api?username=rod7760&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
