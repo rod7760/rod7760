@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Ricky
-I'm an intellectually curious individual who is excited about lifelong learning. 
+I’m driven by a love for programming and a constant desire to learn.
 I also love meeting new developers, so feel free to reach out!
 
 ### What I'm currently working on
 * Working at MSA Safety.
-* Looking for open source projects to contribute to.  
+* Getting [pyinfra-windows](https://github.com/pyinfra-dev/pyinfra-windows) ready for a 1.0 release.
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/riccardi-dalexis-255270186/)
 [Gmail](mailto:rod7760@rit.edu)
 
-### My attempt at blogging:
+### My blog:
 [rickydalexis.com](https://rickydalexis.com)
 
 ### Stats
